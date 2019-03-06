@@ -1,5 +1,5 @@
 /*-------------------------*/
-/* Éstilo inpuText Sistema */
+/* ï¿½stilo inpuText Sistema */
 /*-------------------------*/
 
 .search-button{
@@ -13,7 +13,7 @@
 }
 .container .lupa{
   position: absolute;
-  margin-left: 28px;
+  margin-left: 300px;
   margin-top: 27px;
   color: #FFF;
   -webkit-transition: 0.3s ease-out;
@@ -984,7 +984,7 @@ BODY.SheetPage {
 	vertical-align: top;
 }
 /*=============================================*/
-/* ESTILOS DE LA TABLA DINÁMICA                */
+/* ESTILOS DE LA TABLA DINï¿½MICA                */
 /*=============================================*/
 .linkText {
 	font-family: VerdanaVCSFCF;
