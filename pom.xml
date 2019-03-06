@@ -157,7 +157,7 @@
 
 
 
-		<!-- https://mvnrepository.com/artifact/javax.ws.rs/jsr311-api -->
+		<!-- https://mvnrepository.com/artifact/javax.ws.rs/jsr311-api CAMBIO DESDE WS RAMA DESARROLLO DESDE FORK MARCDUCK-->
 		<dependency>
 			<groupId>javax.ws.rs</groupId>
 			<artifactId>jsr311-api</artifactId>
